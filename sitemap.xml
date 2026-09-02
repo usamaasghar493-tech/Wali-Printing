@@ -2,5 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://waliprinting.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://waliprinting.com/recent-work.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://waliprinting.com/admin.html</loc><changefreq>monthly</changefreq><priority>0.1</priority></url>
+  <url><loc>https://waliprinting.com/blog.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://waliprinting.com/single-vs-double-wall-corrugated-boxes.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://waliprinting.com/printing-services-gujranwala.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://waliprinting.com/professional-packaging-branding.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://waliprinting.com/business-printing-guide.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
